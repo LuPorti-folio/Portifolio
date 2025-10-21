@@ -10,4 +10,4 @@ Analista de dados com formação em Engenharia Civil e mais de 4 anos de experi�
 Apaixonado por transformar dados complexos em insights acionáveis para apoiar a tomada de decisão e a inovação.
 
 # 📱 Contato
-[[LinkedIN](https://www.linkedin.com/in/lucas-estrela-portigo-036771bb)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-estrela-portigo-036771bb)
